@@ -14,7 +14,7 @@ This is a simple nested comments system built with React and Vite. It allows use
 
 ## Demo
 
-![App Screenshot]()
+![App Screenshot](https://ibb.co/M7K9Tqv)
 
 ## Installation
 
