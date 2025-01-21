@@ -13,8 +13,7 @@ This is a simple nested comments system built with React and Vite. It allows use
 - Clean and user-friendly UI
 
 ## Demo
-
-![App Screenshot](https://ibb.co/M7K9Tqv)
+image/screenshot - https://ibb.co/M7K9Tqv
 
 ## Installation
 
